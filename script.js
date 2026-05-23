@@ -1,4 +1,4 @@
-const phrases = ["MIS Major", "Data Analyst", "Data Scientist", "Problem Solver"];
+const phrases = ["MIS Major", "Data Analyst", "Data Scientist", "Problem Solver","Business Analyst"];
 const typedText = document.querySelector(".typed-text");
 let currentPhraseIndex = 0;
 let currentCharIndex = 0;
